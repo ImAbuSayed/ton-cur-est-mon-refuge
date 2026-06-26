@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ton-cur-est-mon-refuge/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Ton Cœur Est Mon Refuge](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-cur-est-mon-refuge/) |
+| **Get License** | [Get License For Ton Cœur Est Mon Refuge](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-cur-est-mon-refuge/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la ville lumière, tes yeux sont mon seul phare
+> Baby come closer, je me perds dans ton regard
+> Le moteur qui ronronne, ce soir on prend le large
+> Ton cœur est mon refuge, on casse tous les barrages
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
