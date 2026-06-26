@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ton-cur-est-mon-refuge/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Ton Cœur Est Mon Refuge](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-cur-est-mon-refuge/) |
+| **Get License** | [Official Music Licensing for Ton Cœur Est Mon Refuge](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-cur-est-mon-refuge/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4449)
 
 ---
 
